@@ -1,0 +1,56 @@
+
+
+#head{
+    background-color: yellowgreen;
+    
+  }
+  #logo{
+      /* position: fixed; */
+    
+  }
+  
+  #form2{
+    /* margin-right: 200px; */
+    border-radius: 20px 20px 20px;
+    box-shadow: -18px 14px;
+    border: 4px solid black;
+    color: yellowgreen;
+    /* max-width: 400px; */
+    float: right;
+}
+  #form1{
+      /* margin-left: 200px; */
+    border-radius: 20px 20px 20px;
+    box-shadow: 18px 14px;
+    border: 4px solid black;
+    color: yellowgreen;
+    /* max-width: 400px; */
+    float: left;
+}
+
+#form01{
+    /* min-width: 600px; */
+    text-align: center;
+    box-shadow: 20px 30px green;
+    display: inline-block;
+}
+
+#form0{
+    box-shadow: 20px 60px green;
+    display: inline-block;
+}
+  
+  #form{
+      border-radius: 10px 10px 10px;
+      box-shadow: 18px 14px;
+      border: 4px solid black;
+      color: yellowgreen;
+     margin: 0 auto;
+      max-width: 600px;
+  }
+  #Developer{
+     
+    font-size: 1em;
+    text-align: center;
+    
+    }
