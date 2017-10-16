@@ -47,9 +47,9 @@
              */
             .btn-primary.active:focus,.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.btn-primary.dropdown-toggle.focus,.open>.btn-primary.dropdown-toggle:focus,.open>.btn-primary.dropdown-toggle:hover{color:#fff;border-color:#a4270d;background-color:#c93110}
             
-           /* .btn-primary.active,.btn-primary:active,.open>.btn-primary.dropdown-toggle{background-image:none}
+            .btn-primary.active,.btn-primary:active,.open>.btn-primary.dropdown-toggle{background-image:none}
               .btn-primary.disabled.focus,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled].focus,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary.focus,fieldset[disabled]
-         .btn-primary:focus,fieldset[disabled] */
+         .btn-primary:focus,fieldset[disabled] 
          
          .btn-primary:hover{border-color:green;background-color:green}.btn-primary  
         .badge{color:green;background-color:#fff}
