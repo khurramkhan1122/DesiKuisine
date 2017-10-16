@@ -143,8 +143,8 @@ body {
             color: #F05F40; } }
 
 header.masthead {
-  position: relative;
-  width: 100%;
+  /* position: relative;
+  width: 100%; */
   min-height: auto;
   text-align: center;
   color: white;
