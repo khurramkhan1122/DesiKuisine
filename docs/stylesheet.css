@@ -4,7 +4,9 @@
     background-color: yellowgreen;
     
   }
-  
+  #homeHeading{
+     font-size:50px
+  }
   #logo{
       /* position: fixed; */
     
